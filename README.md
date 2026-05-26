@@ -1,10 +1,6 @@
 ## Hi, I'm David
 **Data Analyst & Systems Designer** based in Turku, Finland. 
 
-[LinkedIn](https://www.linkedin.com/in/david-zapata-garcia/) • [Email](mailto:davidzapata88@gmail.com)
-
-### About me
-
 My background in Robotics and Automation Engineering taught me how to optimize complex machines; my work in Game Design taught me how to optimize human behavior. I am now channeling these parallel paths into a career in Data Science.
 
 I build data-driven solutions, machine learning models, and automated analytics pipelines. I specialize in transforming raw datasets into actionable product strategies. While I am actively seeking Data Science opportunities, I remain passionate about the gaming industry and how data-validated features drive long-term retention.
