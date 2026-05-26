@@ -20,7 +20,6 @@ I build data-driven solutions, machine learning models, and automated analytics 
 -   **Libraries & Tools:** Pandas • Scikit-learn • Git • Jupyter
 -   **Methodologies:** Statistical Analysis • Non-parametric A/B Testing • ETL Pipelines
 -   **Databases & Cloud:** Google BigQuery • Firebase
----
 
 ### Featured Work
 *   **[Player Churn Detection System](https://github.com/davidzg/Player-Churn-Detection-System)** — ML pipeline & SHAP analysis to segment users and detect attrition drivers.
