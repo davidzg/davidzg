@@ -19,6 +19,6 @@ I specialize in transforming raw datasets into actionable product strategies. Wh
 
 ### Featured Work
 *   **[Player Churn Detection System](https://github.com/davidzg/Player-Churn-Detection-System)** — ML pipeline & SHAP analysis to segment users and detect attrition drivers.
-*   **[E-Commerce Weather Impact Analysis](https://github.com/davidzg/e-commerce-weather-impact-analysis)** — Multi-source ETL & logistic regression evaluating weather effects on deliveries and satisfaction.
+*   **[E-Commerce Weather Impact Analysis](https://github.com/davidzg/e-commerce-weather-impact-analysis)** — Multi-source data pipeline & logistic regression evaluating weather effects on deliveries and satisfaction.
 *   **[Subscription Revenue A/B Test](https://github.com/davidzg/ab-test-subscription-impact)** — Statistical analysis evaluating revenue cannibalization using non-parametric tests.
 <!--*   **[Video Claims Classification](https://github.com/davidzg/TikTok_Claims_Classification)** — Classification modeling to optimize and accelerate content moderation.-->
